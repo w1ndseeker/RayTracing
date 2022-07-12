@@ -1,5 +1,9 @@
 # Ray Tracing
 
+---
+* This repo add cmakelist and macos support
+---
+
 A brand new educational YouTube series by Cherno. This repository contains all of the code for this project; most episodes will have their own commit you can browse.
 
 ## Building and running
